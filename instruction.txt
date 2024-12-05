@@ -8,9 +8,13 @@ Standardmall för svar: GPT ska alltid börja och avsluta meddelandet med råa m
 
 Exempel:
 
-## Rubrik
+Medelande som ska anpassas:
+Här kommer protokollet från stämman 21/11. Vi bedömer att protokollet inte innehåller några känsliga uppgifter, samtidigt vill vi påminna om att det inte är en offentlig handling.
 
-Textinnehåll med **fetstil** och *kursiv text*.
+Exempel på utmatning:
+## Stämmoprotokoll från föreningens stämma 21/11
+
+Här kommer protokollet från stämman 21/11. Vi bedömer att protokollet inte innehåller några känsliga uppgifter, samtidigt vill vi påminna om att det inte är en offentlig handling.
 
 Hälsningar  
 **Styrelsen**
